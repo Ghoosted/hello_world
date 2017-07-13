@@ -1,2 +1,3 @@
 # hello_world
-GitHub test
+GitHub test on the master
+# hello from Atom
